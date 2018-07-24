@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d9ad1f6-9f72-4740-b72d-fb9d855bbdb4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../proj1a/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1a/ArrayDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1a/LinkedListDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedListDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OffByN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OffByOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestOffByN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab/lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab/lab2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab/lab3/Arithmetic/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab/lab3/Arithmetic/Arithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab/lab3/Arithmetic/ArithmeticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab/lab3/Arithmetic/ArithmeticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab/lab3/IntList/IntListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab/lab3/IntList/IntListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab/lab3/lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab/lab3/lab3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/LinkedListDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/LinkedListDequeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOffByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestOffByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestPalindrome.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/deque.java" />
+        <option value="$PROJECT_DIR$/LinkedListDeque.java" />
+        <option value="$PROJECT_DIR$/TestPalindrome.java" />
+        <option value="$PROJECT_DIR$/Palindrome.java" />
+        <option value="$PROJECT_DIR$/OffByOne.java" />
+        <option value="$PROJECT_DIR$/PalindromeFinder.java" />
+        <option value="$PROJECT_DIR$/OffByN.java" />
+        <option value="$PROJECT_DIR$/TestOffByOne.java" />
+        <option value="$PROJECT_DIR$/TestOffByN.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="proj1b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proj1b" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestOffByN.testEqualChars">
+    <configuration name="PalindromeFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeFinder" />
+      <module name="proj1b" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TestOffByN.testEqualChars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestOffByN" />
+      <option name="METHOD_NAME" value="testEqualChars" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestOffByOne.testOffByOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestOffByOne" />
+      <option name="METHOD_NAME" value="testOffByOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestPalindrome.testIsPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="METHOD_NAME" value="testIsPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestPalindrome.testWordToDeque" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="METHOD_NAME" value="testWordToDeque" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestPalindrome.testWordToDeque" />
+      <item itemvalue="JUnit.TestPalindrome.testIsPalindrome" />
+      <item itemvalue="JUnit.TestOffByOne.testOffByOne" />
+      <item itemvalue="Application.PalindromeFinder" />
+      <item itemvalue="JUnit.TestOffByN.testEqualChars" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestOffByN.testEqualChars" />
+        <item itemvalue="Application.PalindromeFinder" />
+        <item itemvalue="JUnit.TestPalindrome.testIsPalindrome" />
+        <item itemvalue="JUnit.TestOffByOne.testOffByOne" />
+        <item itemvalue="JUnit.TestPalindrome.testWordToDeque" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d9ad1f6-9f72-4740-b72d-fb9d855bbdb4" name="Default" comment="" />
+      <created>1532423190936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532423190936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestPalindrome_testIsPalindrome - 2018.07.24 at 17h 36m 03s.xml">
+      <configuration name="TestPalindrome.testIsPalindrome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindrome_testIsPalindrome - 2018.07.24 at 17h 39m 45s.xml">
+      <configuration name="TestPalindrome.testIsPalindrome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindrome_testIsPalindrome - 2018.07.24 at 17h 40m 31s.xml">
+      <configuration name="TestPalindrome.testIsPalindrome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindrome_testIsPalindrome - 2018.07.24 at 17h 48m 43s.xml">
+      <configuration name="TestPalindrome.testIsPalindrome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestOffByOne_testOffByOne - 2018.07.24 at 18h 45m 16s.xml">
+      <configuration name="TestOffByOne.testOffByOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindrome_testIsPalindrome - 2018.07.24 at 18h 48m 49s.xml">
+      <configuration name="TestPalindrome.testIsPalindrome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindrome_testIsPalindrome - 2018.07.24 at 18h 49m 59s.xml">
+      <configuration name="TestPalindrome.testIsPalindrome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindrome_testIsPalindrome - 2018.07.24 at 18h 50m 50s.xml">
+      <configuration name="TestPalindrome.testIsPalindrome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestOffByN_testEqualChars - 2018.07.24 at 19h 08m 10s.xml">
+      <configuration name="TestOffByN.testEqualChars" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestOffByN_testEqualChars - 2018.07.24 at 19h 08m 43s.xml">
+      <configuration name="TestOffByN.testEqualChars" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32969698" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32969698" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Style Checker" weight="0.32969698" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CharacterComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedListDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PalindromeFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestOffByN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OffByN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestOffByOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OffByOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
