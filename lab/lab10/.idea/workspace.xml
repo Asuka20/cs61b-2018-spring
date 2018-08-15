@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0dab68c-271a-437b-991e-8e8a44a1430f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../hw/hw3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hw/hw3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hw/hw3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw/hw2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw/hw2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw/hw3/hw3/hash/ComplexOomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw/hw3/hw3/hash/ComplexOomage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw/hw3/hw3/hash/HashTableVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw/hw3/hw3/hash/HashTableVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw/hw3/hw3/hash/OomageTestUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw/hw3/hw3/hash/OomageTestUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw/hw3/hw3/hash/SimpleOomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw/hw3/hw3/hash/SimpleOomage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw/hw3/hw3/hash/TestComplexOomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw/hw3/hw3/hash/TestComplexOomage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw/hw3/hw3/hash/TestSimpleOomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw/hw3/hw3/hash/TestSimpleOomage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab11/lab11/graphs/MazeAStarPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab11/lab11/graphs/MazeAStarPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab11/lab11/graphs/MazeBreadthFirstPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab11/lab11/graphs/MazeBreadthFirstPaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab11/lab11/graphs/MazeCycles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab11/lab11/graphs/MazeCycles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab11/lab11/graphs/maze.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab11/lab11/graphs/maze.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-6662430">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1241" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1241" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ArrayHeap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="264" column="23" lean-forward="true" selection-start-line="264" selection-start-column="23" selection-end-line="264" selection-end-column="23" />
+              <folding>
+                <element signature="e#968#969#0" expanded="true" />
+                <element signature="e#996#997#0" expanded="true" />
+                <element signature="e#1124#1125#0" expanded="true" />
+                <element signature="e#1156#1157#0" expanded="true" />
+                <element signature="method#toStringHelper#0;class#ArrayHeap#0" />
+                <element signature="method#validateSinkSwimArg#0;class#ArrayHeap#0" />
+                <element signature="method#testIndexing#0;class#ArrayHeap#0" />
+                <element signature="method#testSwim#0;class#ArrayHeap#0" />
+                <element signature="method#testSink#0;class#ArrayHeap#0" />
+                <element signature="method#testInsert#0;class#ArrayHeap#0" />
+                <element signature="method#testInsertAndRemoveOnce#0;class#ArrayHeap#0" />
+                <element signature="method#testInsertAndRemoveAllButLast#0;class#ArrayHeap#0" />
+                <element signature="method#testChangePriority#0;class#ArrayHeap#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExtrinsicPQ.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Node</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ArrayHeap.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab10" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533381589550" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ArrayHeap.testChangePriority">
+    <configuration name="ArrayHeap.testChangePriority" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayHeap" />
+      <option name="METHOD_NAME" value="testChangePriority" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayHeap.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayHeap" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayHeap.testInsertAndRemoveAllButLast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayHeap" />
+      <option name="METHOD_NAME" value="testInsertAndRemoveAllButLast" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayHeap.testInsertAndRemoveOnce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayHeap" />
+      <option name="METHOD_NAME" value="testInsertAndRemoveOnce" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayHeap.testSink" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayHeap" />
+      <option name="METHOD_NAME" value="testSink" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ArrayHeap.testSink" />
+      <item itemvalue="JUnit.ArrayHeap.testInsert" />
+      <item itemvalue="JUnit.ArrayHeap.testInsertAndRemoveOnce" />
+      <item itemvalue="JUnit.ArrayHeap.testInsertAndRemoveAllButLast" />
+      <item itemvalue="JUnit.ArrayHeap.testChangePriority" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArrayHeap.testChangePriority" />
+        <item itemvalue="JUnit.ArrayHeap.testInsertAndRemoveAllButLast" />
+        <item itemvalue="JUnit.ArrayHeap.testInsertAndRemoveOnce" />
+        <item itemvalue="JUnit.ArrayHeap.testInsert" />
+        <item itemvalue="JUnit.ArrayHeap.testSink" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0dab68c-271a-437b-991e-8e8a44a1430f" name="Default Changelist" comment="" />
+      <created>1533370258813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533370258813</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ArrayHeap_testInsert - 2018.08.04 at 18h 23m 12s.xml">
+      <configuration name="ArrayHeap.testInsert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayHeap_testInsert - 2018.08.04 at 18h 23m 24s.xml">
+      <configuration name="ArrayHeap.testInsert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayHeap_testInsertAndRemoveOnce - 2018.08.04 at 18h 25m 30s.xml">
+      <configuration name="ArrayHeap.testInsertAndRemoveOnce" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayHeap_testInsertAndRemoveAllButLast - 2018.08.04 at 18h 25m 35s.xml">
+      <configuration name="ArrayHeap.testInsertAndRemoveAllButLast" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayHeap_testChangePriority - 2018.08.04 at 19h 18m 12s.xml">
+      <configuration name="ArrayHeap.testChangePriority" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayHeap_testChangePriority - 2018.08.04 at 19h 18m 41s.xml">
+      <configuration name="ArrayHeap.testChangePriority" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayHeap_testChangePriority - 2018.08.04 at 19h 18m 55s.xml">
+      <configuration name="ArrayHeap.testChangePriority" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayHeap_testChangePriority - 2018.08.04 at 19h 19m 09s.xml">
+      <configuration name="ArrayHeap.testChangePriority" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayHeap_testChangePriority - 2018.08.04 at 19h 19m 19s.xml">
+      <configuration name="ArrayHeap.testChangePriority" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayHeap_testChangePriority - 2018.08.04 at 19h 19m 51s.xml">
+      <configuration name="ArrayHeap.testChangePriority" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31084338" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Style Checker" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ExtrinsicPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="264" column="23" lean-forward="true" selection-start-line="264" selection-start-column="23" selection-end-line="264" selection-end-column="23" />
+          <folding>
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+            <element signature="e#1156#1157#0" expanded="true" />
+            <element signature="method#toStringHelper#0;class#ArrayHeap#0" />
+            <element signature="method#validateSinkSwimArg#0;class#ArrayHeap#0" />
+            <element signature="method#testIndexing#0;class#ArrayHeap#0" />
+            <element signature="method#testSwim#0;class#ArrayHeap#0" />
+            <element signature="method#testSink#0;class#ArrayHeap#0" />
+            <element signature="method#testInsert#0;class#ArrayHeap#0" />
+            <element signature="method#testInsertAndRemoveOnce#0;class#ArrayHeap#0" />
+            <element signature="method#testInsertAndRemoveAllButLast#0;class#ArrayHeap#0" />
+            <element signature="method#testChangePriority#0;class#ArrayHeap#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

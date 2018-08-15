@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534313136091" />
+  </component>
+  <component name="RunManager" selected="Application.DepthFirstDemo">
+    <configuration name="DepthFirstDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab11.graphs.DepthFirstDemo" />
+      <module name="lab11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab11.graphs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrivialMazeExplorerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab11.graphs.TrivialMazeExplorerDemo" />
+      <module name="lab11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab11.graphs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TrivialMazeExplorerDemo" />
+      <item itemvalue="Application.DepthFirstDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DepthFirstDemo" />
+        <item itemvalue="Application.TrivialMazeExplorerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
