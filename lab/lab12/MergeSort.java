@@ -1,4 +1,7 @@
 import edu.princeton.cs.algs4.Queue;
+import edu.princeton.cs.algs4.StdOut;
+
+import java.util.Random;
 
 public class MergeSort {
     /**
@@ -34,8 +37,13 @@ public class MergeSort {
     /** Returns a queue of queues that each contain one item from items. */
     private static <Item extends Comparable> Queue<Queue<Item>>
             makeSingleItemQueues(Queue<Item> items) {
-        // Your code here!
-        return null;
+        Queue<Queue<Item>> metaQueue = new Queue<>();
+        for (Item o: items) {
+            Queue<Item> tmp = new Queue<>();
+            tmp.enqueue(o);
+            metaQueue.enqueue(tmp);
+        }
+        return metaQueue;
     }
 
     /**
@@ -53,14 +61,50 @@ public class MergeSort {
      */
     private static <Item extends Comparable> Queue<Item> mergeSortedQueues(
             Queue<Item> q1, Queue<Item> q2) {
-        // Your code here!
-        return null;
+
+        Queue<Item> res = new Queue<>();
+        while (!q1.isEmpty() || !q2.isEmpty()) {
+            res.enqueue(getMin(q1, q2));
+        }
+        return res;
     }
 
     /** Returns a Queue that contains the given items sorted from least to greatest. */
     public static <Item extends Comparable> Queue<Item> mergeSort(
             Queue<Item> items) {
-        // Your code here!
-        return items;
+
+        if (items.size() == 1) {
+            return items;
+        }
+        Queue<Queue<Item>> metaQueue = makeSingleItemQueues(items);
+
+        while (metaQueue.size() > 1) {
+            Queue<Item> q1 = metaQueue.dequeue();
+            Queue<Item> q2 = metaQueue.dequeue();
+            metaQueue.enqueue(mergeSortedQueues(q1, q2));
+        }
+
+        return metaQueue.dequeue();
+    }
+
+    public static void main(String[] args) {
+        Queue<String> students = new Queue<>();
+        students.enqueue("Alice");
+        students.enqueue("Vanessa");
+        students.enqueue("Ethan");
+        StdOut.println(students);
+
+        Queue<String> sorted = MergeSort.mergeSort(students);
+        StdOut.println(sorted);
+
+
+        Random rdm = new Random();
+        Queue<Integer> ints = new Queue<>();
+        for (int i = 0; i < 100; i++) {
+            ints.enqueue(rdm.nextInt(100));
+        }
+        StdOut.println(ints);
+        Queue<Integer> sortedInts = MergeSort.mergeSort(ints);
+        StdOut.println(sortedInts);
     }
 }

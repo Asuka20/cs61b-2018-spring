@@ -1,4 +1,7 @@
 import edu.princeton.cs.algs4.Queue;
+import edu.princeton.cs.algs4.StdOut;
+
+import java.util.Random;
 
 public class QuickSort {
     /**
@@ -47,13 +50,47 @@ public class QuickSort {
     private static <Item extends Comparable> void partition(
             Queue<Item> unsorted, Item pivot,
             Queue<Item> less, Queue<Item> equal, Queue<Item> greater) {
-        // Your code here!
+        while (!unsorted.isEmpty()) {
+            Item tmp = unsorted.dequeue();
+            if (tmp.compareTo(pivot) < 0) {
+                less.enqueue(tmp);
+            } else if (tmp.compareTo(pivot) > 0) {
+                greater.enqueue(tmp);
+            } else {
+                equal.enqueue(tmp);
+            }
+        }
     }
 
     /** Returns a Queue that contains the given items sorted from least to greatest. */
     public static <Item extends Comparable> Queue<Item> quickSort(
             Queue<Item> items) {
-        // Your code here!
-        return items;
+
+        Queue<Item> less = new Queue<>();
+        Queue<Item> equal = new Queue<>();
+        Queue<Item> greater = new Queue<>();
+        partition(items, getRandomItem(items), less, equal, greater);
+        return catenate(catenate(quickSort(less), equal), quickSort(greater));
+    }
+
+    public static void main(String[] args) {
+        Queue<String> students = new Queue<>();
+        students.enqueue("Alice");
+        students.enqueue("Vanessa");
+        students.enqueue("Ethan");
+        StdOut.println(students);
+
+        Queue<String> sorted = MergeSort.mergeSort(students);
+        StdOut.println(sorted);
+
+
+        Random rdm = new Random();
+        Queue<Integer> ints = new Queue<>();
+        for (int i = 0; i < 100; i++) {
+            ints.enqueue(rdm.nextInt(100));
+        }
+        StdOut.println(ints);
+        Queue<Integer> sortedInts = MergeSort.mergeSort(ints);
+        StdOut.println(sortedInts);
     }
 }
